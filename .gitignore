@@ -1,2 +1,5 @@
+# Ignore the a.out file in the C++ folder at the root
 C++/a.out
+
+# Ignore all .vscode folders
 .vscode/
